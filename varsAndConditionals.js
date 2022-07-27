@@ -65,3 +65,4 @@ while (dragonScore >= 5) {
     dragonScore++;
 }
 console.log(dragonScore);
+
